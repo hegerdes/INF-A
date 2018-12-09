@@ -1,0 +1,30 @@
+a)
+
+i)   42.23 = 2^(5) * 1.3196875
+      0 00000101 01010001110101110000101
+      s Exponent        Mantisse
+
+ii)  -73.73 = -1 * 2^(6) * 1.15203125
+      1 00000110 00100110111010111000010
+      s Exponent        Mantisse
+
+iii) 6.4 = 2^(2) * 1.6
+      0 00000010 10011001100110011001101
+      s Exponent        Mantisse
+
+Die Zahl 6.4 kann nicht exakt dargestellt werden, da
+die Mantisse periodisch ist.
+Der Rechner rundet intern die Werte. Dieses Problem ergibt
+sich bei vielen Gleitkommazahlen. So z.B. auch bei
+0.1  0.2  0.3  0.4  0.6  0.7  und so weiter
+
+
+b)
+     0 00000101 00101101110101110000101
+     s Exponent        Mantisse
+
+     =  32 * (1 + (2^(-3) + 2^(-5) + 2^(-6) + 2^(-8) + 2^(-9) +
+        2^(-10) + 2^(-12) + 2^(-14) + 2^(-15) + 2^(-16) + 2^(-21) +
+        2^(-23))) = 37.73
+
+

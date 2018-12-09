@@ -1,0 +1,139 @@
+aum ist balanciert:
+8(0)
+
+
+-------------------------------
+
+Fuege 7 in den AVL-Baum ein:
+
+
+Baum ist balanciert:
+  8(-1)
+
+7(0)
+
+
+-------------------------------
+
+Fuege 1 in den AVL-Baum ein:
+
+      8(-2)
+
+  7(-1)
+
+1(0)
+
+
+LL-Rotation im Teilbaum mit Wurzel 8
+  7(0)
+
+1(0) 8(0)
+
+
+Baum ist balanciert:
+  7(0)
+
+1(0) 8(0)
+
+
+-------------------------------
+
+Fuege 3 in den AVL-Baum ein:
+
+
+Baum ist balanciert:
+      7(-1)
+
+  1(1)     8(0)
+
+     3(0)
+
+
+-------------------------------
+
+Fuege 4 in den AVL-Baum ein:
+
+              7(-1)
+
+      1(2)             8(0)
+
+           3(1)
+
+               4(0)
+
+
+RR-Rotation im Teilbaum mit Wurzel 1
+      7(-1)
+
+  3(0)     8(0)
+
+1(0) 4(0)
+
+
+Baum ist balanciert:
+      7(-1)
+
+  3(0)     8(0)
+
+1(0) 4(0)
+
+
+-------------------------------
+
+Fuege 6 in den AVL-Baum ein:
+
+              7(-2)
+
+      3(1)             8(0)
+
+  1(0)     4(1)
+
+               6(0)
+
+
+LR-Rotation im Teilbaum mit Wurzel 7
+      4(0)
+
+  3(-1)     7(0)
+
+1(0)      6(0) 8(0)
+
+
+Baum ist balanciert:
+      4(0)
+
+  3(-1)     7(0)
+
+1(0)      6(0) 8(0)
+
+
+-------------------------------
+
+Fuege 2 in den AVL-Baum ein:
+
+              4(0)
+
+      3(-2)             7(0)
+
+  1(1)              6(0)     8(0)
+
+     2(0)
+
+
+LR-Rotation im Teilbaum mit Wurzel 3
+      4(0)
+
+  2(0)     7(0)
+
+1(0) 3(0) 6(0) 8(0)
+
+
+Baum ist balanciert:
+      4(0)
+
+  2(0)     7(0)
+
+1(0) 3(0) 6(0) 8(0)
+
+
+-------------------------------

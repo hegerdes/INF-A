@@ -1,0 +1,118 @@
+Baue Heap auf:
+       78
+
+    5      34
+
+ 99  12
+
+
+Sift für Element 5:
+Sifte 5
+
+       78
+
+    5      34
+
+ 99  12
+
+
+       78
+
+    5      34
+
+ 99  12
+
+Sift für Element 78:
+Sifte 78
+
+       78
+
+    5      34
+
+ 99  12
+
+Tausche mit 5
+Tausche mit 12
+
+        5
+
+   12      34
+
+ 99  78
+
+Sortiere Heap:
+
+Tausche kleinstes Element mit Wurzel
+Sifte 78
+
+       78
+
+   12      34
+
+ 99
+
+Tausche mit 12
+
+       12
+
+   78      34
+
+ 99
+
+
+12, 78, 34, 99, 5
+
+Tausche kleinstes Element mit Wurzel
+Sifte 99
+
+   99
+
+ 78  34
+
+
+
+Tausche mit 34
+
+   34
+
+ 78  99
+
+
+
+
+34, 78, 99, 12, 5
+
+Tausche kleinstes Element mit Wurzel
+Sifte 99
+
+   99
+
+ 78
+
+Tausche mit 78
+
+   78
+
+ 99
+
+
+78, 99, 34, 12, 5
+
+Tausche kleinstes Element mit Wurzel
+Sifte 99
+
+ 99
+
+
+
+
+ 99
+
+
+
+
+99, 78, 34, 12, 5
+
+
+Sortiert:
+99 78 34 12 5

@@ -1,0 +1,36 @@
+***Hier sind die Interationen für die Collatz-Funktion***
+
+***Eingegeben wurden die Zahlen 1 bis 30***
+
+Bitte eine Zahl: Anzahl der Iterationen: 0
+Bitte eine Zahl: Anzahl der Iterationen: 1
+Bitte eine Zahl: Anzahl der Iterationen: 7
+Bitte eine Zahl: Anzahl der Iterationen: 2
+Bitte eine Zahl: Anzahl der Iterationen: 5
+Bitte eine Zahl: Anzahl der Iterationen: 8
+Bitte eine Zahl: Anzahl der Iterationen: 16
+Bitte eine Zahl: Anzahl der Iterationen: 3
+Bitte eine Zahl: Anzahl der Iterationen: 19
+Bitte eine Zahl: Anzahl der Iterationen: 6
+Bitte eine Zahl: Anzahl der Iterationen: 14
+Bitte eine Zahl: Anzahl der Iterationen: 9
+Bitte eine Zahl: Anzahl der Iterationen: 9
+Bitte eine Zahl: Anzahl der Iterationen: 17
+Bitte eine Zahl: Anzahl der Iterationen: 17
+Bitte eine Zahl: Anzahl der Iterationen: 4
+Bitte eine Zahl: Anzahl der Iterationen: 12
+Bitte eine Zahl: Anzahl der Iterationen: 20
+Bitte eine Zahl: Anzahl der Iterationen: 20
+Bitte eine Zahl: Anzahl der Iterationen: 7
+Bitte eine Zahl: Anzahl der Iterationen: 7
+Bitte eine Zahl: Anzahl der Iterationen: 15
+Bitte eine Zahl: Anzahl der Iterationen: 15
+Bitte eine Zahl: Anzahl der Iterationen: 10
+Bitte eine Zahl: Anzahl der Iterationen: 23
+Bitte eine Zahl: Anzahl der Iterationen: 10
+Bitte eine Zahl: Anzahl der Iterationen: 111
+Bitte eine Zahl: Anzahl der Iterationen: 18
+Bitte eine Zahl: Anzahl der Iterationen: 18
+Bitte eine Zahl: Anzahl der Iterationen: 18
+
+***Datei wurde als vi und txt Datei gespeichert***

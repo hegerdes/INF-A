@@ -1,0 +1,101 @@
+
+Die unsortierte Folge sieht so aus: 
+
+  7  4  6  8  9  1  3  2
+
+Der Median ist:  8
+Die untere Grenze des Array ist: 0
+Die Obere Grenze des Arrays ist: 7
+
+Hier findet ein Tausch an der Stelle i=3 mit der Stelle j=7 statt
+Hier wird 8 mit 2 getauscht.
+
+  7  4  6  2  9  1  3  8
+
+Hier findet ein Tausch an der Stelle i=4 mit der Stelle j=6 statt
+Hier wird 9 mit 3 getauscht.
+
+  7  4  6  2  3  1  9  8
+
+
+Schleife durchlaufen!
+Methode wird ggf. neu aufgerufen.
+Bei einem neuem Aufruf sind die neuen Grenzen:
+i= 6 und j= 5
+
+Der Median ist:  6
+Die untere Grenze des Array ist: 0
+Die Obere Grenze des Arrays ist: 5
+
+Hier findet ein Tausch an der Stelle i=0 mit der Stelle j=5 statt
+Hier wird 7 mit 1 getauscht.
+
+  1  4  6  2  3  7  9  8
+
+Hier findet ein Tausch an der Stelle i=2 mit der Stelle j=4 statt
+Hier wird 6 mit 3 getauscht.
+
+  1  4  3  2  6  7  9  8
+
+
+Schleife durchlaufen!
+Methode wird ggf. neu aufgerufen.
+Bei einem neuem Aufruf sind die neuen Grenzen:
+i= 4 und j= 3
+
+Der Median ist:  4
+Die untere Grenze des Array ist: 0
+Die Obere Grenze des Arrays ist: 3
+
+Hier findet ein Tausch an der Stelle i=1 mit der Stelle j=3 statt
+Hier wird 4 mit 2 getauscht.
+
+  1  2  3  4  6  7  9  8
+
+
+Schleife durchlaufen!
+Methode wird ggf. neu aufgerufen.
+Bei einem neuem Aufruf sind die neuen Grenzen:
+i= 3 und j= 2
+
+Der Median ist:  2
+Die untere Grenze des Array ist: 0
+Die Obere Grenze des Arrays ist: 2
+
+Hier findet ein Tausch an der Stelle i=1 mit der Stelle j=1 statt
+Hier wird 2 mit 2 getauscht.
+
+  1  2  3  4  6  7  9  8
+
+Schleife durchlaufen!
+Methode wird ggf. neu aufgerufen.
+Bei einem neuem Aufruf sind die neuen Grenzen:
+i= 2 und j= 0
+
+Der Median ist:  6
+Die untere Grenze des Array ist: 4
+Die Obere Grenze des Arrays ist: 5
+
+Hier findet ein Tausch an der Stelle i=4 mit der Stelle j=4 statt
+Hier wird 6 mit 6 getauscht.
+
+  1  2  3  4  6  7  9  8
+
+Schleife durchlaufen!
+Methode wird ggf. neu aufgerufen.
+Bei einem neuem Aufruf sind die neuen Grenzen:
+i= 5 und j= 3
+
+Der Median ist:  9
+Die untere Grenze des Array ist: 6
+Die Obere Grenze des Arrays ist: 7
+
+Hier findet ein Tausch an der Stelle i=6 mit der Stelle j=7 statt
+Hier wird 9 mit 8 getauscht.
+
+  1  2  3  4  6  7  8  9
+
+Schleife durchlaufen!
+Methode wird ggf. neu aufgerufen.
+Bei einem neuem Aufruf sind die neuen Grenzen:
+i= 7 und j= 6
